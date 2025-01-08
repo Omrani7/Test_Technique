@@ -1,28 +1,4 @@
-Skip to content
-Navigation Menu
-Omrani7
-Test_Technique
 
-Type / to search
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Creating a new file in Test_Technique
-BreadcrumbsTest_Technique
-/
-README.md
-in
-master
-
-Edit
-
-Preview
 Description
 
 Ce programme calcule la somme des valeurs d'étalonnage à partir d'un fichier texte. Chaque ligne du fichier contient des caractères mixtes, y compris des chiffres. La valeur d'étalonnage pour chaque ligne est formée en combinant le premier et le dernier chiffre rencontré dans la ligne (dans cet ordre) Si une ligne ne contient pas de chiffres, elle est ignorée.
